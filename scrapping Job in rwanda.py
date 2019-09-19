@@ -2,14 +2,14 @@
 """
 Created on Sun Jul 28 13:18:10 2019
 
-@author: One Acre Fund
+@author: Arsene
 """
 
 # -*- coding: utf-8 -*-
 """
 Created on Sat Jul 27 15:28:54 2019
 
-@author: One Acre Fund
+@author: Arsene
 """
 
 import pandas as pd
